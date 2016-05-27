@@ -1,5 +1,5 @@
 # GramV1Client
-[![Code Climate](https://codeclimate.com/github/Zooip/gram_v1_client/badges/gpa.svg)](https://codeclimate.com/github/Zooip/gram_v1_client) [![Build Status](https://travis-ci.org/Zooip/gram_v1_client.svg?branch=master)](https://travis-ci.org/Zooip/gram_v1_client)
+[![Code Climate](https://codeclimate.com/github/Zooip/gram_v1_client/badges/gpa.svg)](https://codeclimate.com/github/Zooip/gram_v1_client)[![Test Coverage](https://codeclimate.com/github/Zooip/gram_v1_client/badges/coverage.svg)](https://codeclimate.com/github/Zooip/gram_v1_client/coverage) [![Build Status](https://travis-ci.org/Zooip/gram_v1_client.svg?branch=master)](https://travis-ci.org/Zooip/gram_v1_client)
 ## Installation
 
 Add this line to your application's Gemfile:
