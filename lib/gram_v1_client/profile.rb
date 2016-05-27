@@ -3,7 +3,7 @@
 # encoding: utf-8
 
 require 'active_resource'
-class GramProfile < GramV1Client::Base
+class Profile < GramV1Client::Base
   self.element_name = "profiles"
 
   #Overwrite find_single from ActiveResource::Base to be able to use gram api (/accounts suffix)
